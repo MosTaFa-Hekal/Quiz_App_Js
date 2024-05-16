@@ -1,0 +1,34 @@
+Demo Questions
+
+      questions : Who is the player who played more than 653 matches in the English Premier League?
+      a: "Mohamed Salah" ,
+      b: "Ronaldo" ,
+      c: "Gareth Barry" , 
+      d: "Hary Ken" ,
+      corect: "c" ,
+      _______________________________________________________________________________________________
+
+    questions : "Who is the player who scored the fastest hat-trick in the English Premier League?"
+      a: "Mohamed Salah" ,
+      b: "Sadio Mane" ,
+      c: "Palmer" , 
+      d: "Halland" ,
+      corect: "b" ,
+      _______________________________________________________________________________________________
+
+    questions : "How many clubs competed in the inaugural Premier League season?"
+      a: "20" ,
+      b: "21" ,
+      c: "22" , 
+      d: "23" ,
+      corect: "c" ,
+
+      _______________________________________________________________________________________________
+
+    questions : "Two English players won the World Cup Golden Boot. Who are these?"
+      a: "James Madison and Foden" ,
+      b: "Callum Wilson and Saka" ,
+      c: "Wayne Rooney and Marcus Rashford" , 
+      d: "Gary Lineker and Harry Kane" ,
+      corect: "d" ,
+
